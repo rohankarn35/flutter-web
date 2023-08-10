@@ -36146,7 +36146,7 @@ A.xy.prototype={
 aR(){this.bl()
 B.b.ta(this.d)},
 P(a){var s=this,r=null
-return new A.tI(A.a9w(A.a([A.O2(new A.ES(s.d,s.ga07(s),r),r,r),A.E7(r,40,r),A.YE("Moves: "+s.e,A.aem().$3$color$fontSize$fontWeight(B.l,25,B.j)),A.E7(r,100,r),A.zy(r,new A.Ag(s.gKx(),r,r,r,A.a9U(r,r,r,r,r,r,r,r,r,r,r,r,r,B.fI,r,r,r,r,r,r),B.G,r,!1,r,A.YE("Shuffle",A.lV(r,r,B.i,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r),r,r,50,r,r,100)],t.nA),B.j6,B.CA,B.oF),r)},
+return new A.tI(A.a9w(A.a([A.E7(r,150,r),A.O2(new A.ES(s.d,s.ga07(s),r),r,r),A.YE("Moves: "+s.e,A.aem().$3$color$fontSize$fontWeight(B.l,25,B.j)),A.E7(r,30,r),A.zy(r,new A.Ag(s.gKx(),r,r,r,A.a9U(r,r,r,r,r,r,r,r,r,r,r,r,r,B.fI,r,r,r,r,r,r),B.G,r,!1,r,A.YE("Shuffle",A.lV(r,r,B.i,r,r,r,r,r,r,r,r,15,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r),r,r,50,r,r,100)],t.nA),B.j6,B.CA,B.oF),r)},
 a08(a,b){var s=this,r=b-1
 if(!(r>0&&J.f(s.d[r],0)&&B.f.bE(b,3)!==0)){r=b+1
 if(!(r<9&&J.f(s.d[r],0)&&B.f.bE(r,3)!==0)){r=b-3
@@ -36192,11 +36192,11 @@ p=A.cu(a,q,p).w
 s=this.c.length
 r=!0
 r=r?B.va:q
-return A.zy(q,new A.B0(B.ww,new A.XM(new A.Zh(this),s,!0,!0,!0,q),q,B.aX,!1,q,q,r,!1,q,s,B.ba,B.EP,q,B.b0,q),q,q,o.a.b*0.4,q,q,p.a.a*0.2)}}
+return A.zy(q,new A.B0(B.ww,new A.XM(new A.Zh(this),s,!0,!0,!0,q),q,B.aX,!1,q,q,r,!1,q,s,B.ba,B.EP,q,B.b0,q),q,q,o.a.b*0.5,q,q,p.a.a*0.8)}}
 A.Zh.prototype={
 $2(a,b){var s,r=null,q=this.a,p=q.c
-if(!J.f(p[b],0)){s=A.Nw(8)
-q=A.a6s(r,new A.yK(5,A.zy(r,A.O2(new A.AB(A.YE(J.d8(p[b]),A.aem().$3$color$fontSize$fontWeight(B.i,25,B.j)),r),r,r),r,new A.i3(B.fI,r,r,s,r,r,B.c_),20,r,r,20),r),B.ba,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.Zg(q,b),r,r,r,r,r,r)}else q=B.ec
+if(!J.f(p[b],0)){s=A.Nw(4)
+q=A.a6s(r,new A.yK(5,A.zy(r,A.O2(new A.AB(A.YE(J.d8(p[b]),A.aem().$3$color$fontSize$fontWeight(B.i,25,B.j)),r),r,r),r,new A.i3(B.fI,r,r,s,r,r,B.c_),50,r,r,50),r),B.ba,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.Zg(q,b),r,r,r,r,r,r)}else q=B.ec
 return q},
 $S:125}
 A.Zg.prototype={
